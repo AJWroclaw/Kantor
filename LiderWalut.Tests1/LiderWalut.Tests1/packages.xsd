@@ -1,0 +1,18 @@
+xml version=1.0 encoding=utf-8 
+xsschema xmlnsxs=httpwww.w3.org2001XMLSchema elementFormDefault=qualified
+      targetNamespace=urnpackages xmlns=urnpackages
+  xselement name=packages
+    xscomplexType
+      xssequence
+        xselement name=package maxOccurs=unbounded
+          xscomplexType
+            xsattribute name=id type=xsstring use=required 
+            xsattribute name=version type=xsstring use=required 
+            xsattribute name=targetFramework type=xsstring use=optional 
+            xsattribute name=allowedVersions type=xsstring use=optional 
+          xscomplexType
+        xselement
+      xssequence
+    xscomplexType
+  xselement
+xsschema

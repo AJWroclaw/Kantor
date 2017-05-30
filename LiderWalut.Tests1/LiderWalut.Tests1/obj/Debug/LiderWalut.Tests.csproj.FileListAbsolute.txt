@@ -1,0 +1,9 @@
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\LiderWalut.Tests1.dll
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\LiderWalut.Tests1.pdb
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\WebDriver.dll
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\bin\Debug\WebDriver.xml
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\obj\Debug\LiderWalut.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\obj\Debug\LiderWalut.Tests1.dll
+C:\Users\Grzegorz\documents\visual studio 2017\Projects\LiderWalut.Tests1\LiderWalut.Tests1\obj\Debug\LiderWalut.Tests1.pdb
